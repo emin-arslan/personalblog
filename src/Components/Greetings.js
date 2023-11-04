@@ -16,7 +16,7 @@ const Greetings = () => {
           <p className="text-left text-white py-5 text-xl leading-9 sm:text-lg xs:text-base">
             Welcome to my blog! I'm a computer engineer, and here, I share my
             passion for web development. You'll find articles and projects
-            related to JavaScript, TypeScript, React, CSS, HTML, MongoDB,
+            related to <span className="font-bold text-transparent bg-clip-text bg-gradient-to-br from-orange-600 to-orange-300">JavaScript</span>, TypeScript, <span className="font-bold text-transparent bg-clip-text bg-gradient-to-br from-[#0ea5e9] to-[#22d3ee]">React</span>, CSS, HTML, <span className="text-transparent bg-clip-text bg-gradient-to-br from-green-300 to-green-500 font-bold">MongoDB</span>,
             Node.js, and Tailwind CSS. Explore my work, and let's connect. Enjoy
             your visit!
           </p>

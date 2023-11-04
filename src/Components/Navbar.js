@@ -25,8 +25,8 @@ const Navbar = () => {
       <div>
         <ul className="flex gap-3 font-semibold text-gray-300 h-full items-center">
           <li>Blogs</li>
-          <li>GitHub</li>
-          <li>Twitter</li>
+          <li><a href="https://github.com/emin-arslan">GitHub</a></li>
+          <li><a href="mailto:arslanemin1864@gmail.com">Email</a></li>
         </ul>
       </div>
     </div>
