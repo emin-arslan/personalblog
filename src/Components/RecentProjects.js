@@ -21,9 +21,6 @@ const RecentProjects = () => {
                 <li className="bg-lime-400 text-lime-900 text-[11px] min-w-fit rounded-md px-2 py-1 h-fit">
                   MongoDb
                 </li>
-                <li className="bg-sky-400 text-sky-900 text-[11px] rounded-md px-2 py-1 h-fit">
-                  Tailwind.css
-                </li>
                 <li className="bg-rose-400 text-rose-900 text-[11px] rounded-md px-2 py-1 h-fit">
                   TypseScript.css
                 </li>
