@@ -22,7 +22,7 @@ const RecentProjects = () => {
                   MongoDb
                 </li>
                 <li className="bg-rose-400 text-rose-900 text-[11px] rounded-md px-2 py-1 h-fit">
-                  TypseScript.css
+                  TypseScript
                 </li>
                 <li className="bg-purple-400 text-purple-900 text-[11px] rounded-md px-2 py-1 h-fit">
                   NodeJs
