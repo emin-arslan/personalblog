@@ -10,7 +10,7 @@ const RecentProjects = () => {
       <div className="space-y-4 mt-4">
         <div className="w-full h-40 bg-[#1e293b] p-2 rounded flex items-center md:flex-col md:h-auto sm:flex-col sm:h-auto xs:flex-col xs:h-auto min-w-fit lg:gap-5 xl:gap-5 2xl:gap-5">
           <img src={dailyAnime} className="max-h-40" alt="design"></img>
-          <a href="https://daily-animebe.vercel.app/" target="_blank">
+          <a href="https://anime-daily.vercel.app/" target="_blank">
           <div className="">
             <div className="flex space-x-2 md:flex-col md:items-center sm:items-center xs:items-center  sm:flex-col xs:flex-col md:justify-center sm:justify-center xs:justify-center">
               <h1 className="text-white">DailyAnime</h1>
