@@ -9,11 +9,11 @@ const RecentProjects = () => {
     <div className="">
       <h1 className="text-white text-2xl font-bold">Recent  <span className="text-transparent bg-clip-text bg-gradient-to-br from-[#0ea5e9] to-[#22d3ee]">Projects</span></h1>
       <div className="space-y-4 mt-4">
-        <div onClick={()=>window.open('https://anime-daily.vercel.app/')} className="w-full h-40 bg-[#1e293b] cursor-pointer p-2 rounded flex items-center md:flex-col md:h-auto sm:flex-col sm:h-auto xs:flex-col xs:h-auto min-w-fit lg:gap-5 xl:gap-5 2xl:gap-5">
+        <div onClick={()=>window.open('https://animeelysium.com/')} className="w-full h-40 bg-[#1e293b] cursor-pointer p-2 rounded flex items-center md:flex-col md:h-auto sm:flex-col sm:h-auto xs:flex-col xs:h-auto min-w-fit lg:gap-5 xl:gap-5 2xl:gap-5">
           <img src={dailyAnime} className="max-h-40" alt="design"></img>
           <div className="">
             <div className="flex space-x-2 md:flex-col md:items-center sm:items-center xs:items-center  sm:flex-col xs:flex-col md:justify-center sm:justify-center xs:justify-center">
-              <h1 className="text-white">DailyAnime</h1>
+              <h1 className="text-white">Anime Elysium</h1>
               <ul className="flex space-x-2">
                 <li className="bg-orange-400 text-orange-900 text-[11px] rounded-md px-2 py-1 h-fit">
                   JavaScript
@@ -30,10 +30,7 @@ const RecentProjects = () => {
               </ul>
             </div>
             <p className="mt-2 text-sm text-gray-400">
-              The purpose of this project is to watch anime videos on a daily
-              basis. The project is based on retrieving anime episodes from
-              several websites and publishing them in our own format. It is
-              designed for daily viewing only.
+            Anime Elysium is an anime streaming platform that has both a mobile application available on Google Play and a website on the internet. The Anime Elysium app on Google Play has over 6,000 downloads and a total of 3,000 users. On the web, it receives an average of 1,500 to 2,000 visitors.
             </p>
           </div>
         </div>
